@@ -1,0 +1,910 @@
+namekraj	idobvod	nameobvod	idokres	nameokres	idobec	nameobec	idokrsek	vuc1_13_votersreg	vuc1_13_votersvalid	vuc1_13_nevolici	vuc1_13_other	vuc1_13_kotleba	vuc1_13_manka	vuc1_13_kanik	pr2_14_votersreg	pr2_14_votersvalid	pr2_14_nevolici	pr2_14_fico	pr2_14_kiska	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511226	Ábelová	1	162	65	106	16	17	30	2	171	62	109	38	24	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	557757	Abovce	1	486	158	333	39	14	90	15	491	165	326	35	130	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518166	Babiná	1	435	108	327	7	11	78	12	413	219	216	138	81	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514489	Babinec	1	60	28	41	2	4	22	0	69	46	23	31	15	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508446	Bacúch	1	842	159	683	19	53	76	11	837	361	481	233	128	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518174	Bacúrov	1	120	45	77	3	12	23	7	122	78	44	30	48	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516601	Baïan	1	165	66	106	16	14	33	3	172	94	78	59	35	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508454	Badín	1	780	221	559	26	57	89	49	772	443	337	148	295	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508454	Badín	2	771	189	600	29	54	74	32	789	444	345	154	290	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508471	Baláe	1	180	56	124	12	14	21	9	178	103	77	50	53	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515868	Balog nad Ip¾om	1	697	179	518	11	1	115	52	668	329	368	14	315	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516627	Banská Belá	1	983	176	807	50	31	72	23	965	421	562	199	222	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	1	726	179	547	47	17	54	61	670	413	313	85	328	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	2	622	191	431	31	25	84	51	593	333	289	125	208	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	3	882	301	581	28	59	156	58	864	527	355	164	363	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	4	615	198	417	34	30	75	59	609	369	246	99	270	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	5	943	221	739	26	41	101	53	960	489	471	184	305	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	6	1706	161	1545	20	17	71	53	1670	331	1375	122	209	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	7	602	154	467	17	38	69	30	621	361	260	137	224	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	8	546	164	382	17	34	65	48	526	298	248	119	179	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	9	915	290	625	33	70	145	42	870	508	407	213	295	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	10	869	225	644	38	58	85	44	868	454	415	157	297	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	11	988	288	700	51	52	86	99	949	606	382	181	425	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	12	718	210	516	26	50	86	48	726	483	243	152	331	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	13	868	237	634	46	63	76	52	871	479	392	159	320	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	14	1060	292	768	38	81	109	64	1059	563	497	217	346	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	15	1004	261	743	46	79	91	45	956	502	502	170	332	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	16	695	215	480	28	77	57	53	667	383	312	96	287	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	17	438	124	315	20	22	62	20	439	259	180	117	142	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	18	807	242	565	32	42	122	46	757	457	350	203	254	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	19	849	201	648	22	64	84	31	836	459	390	187	272	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	20	363	40	329	8	12	9	11	369	155	214	69	86	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	21	922	313	609	46	57	156	54	895	512	410	226	286	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	22	806	230	576	37	45	84	64	787	480	326	172	308	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	23	958	290	668	38	81	120	51	912	533	425	211	322	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	24	303	43	260	8	9	18	8	290	104	199	43	61	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	25	563	90	473	11	33	38	8	555	183	380	93	90	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	26	904	246	658	29	96	95	26	892	490	414	229	261	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	27	1143	303	840	47	70	115	71	304	212	931	52	160	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	28	820	174	646	20	53	73	28	809	465	355	171	294	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	29	631	121	631	15	25	60	21	752	425	327	185	240	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	30	589	158	460	18	45	66	29	618	251	367	96	155	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	31	494	191	405	24	29	80	58	596	354	242	133	221	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	32	217	77	426	9	10	48	10	503	366	137	118	248	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	33	805	168	637	14	48	79	27	215	148	657	76	72	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	34	791	211	580	25	59	81	46	771	402	389	129	273	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	35	690	152	611	22	44	62	24	763	409	354	141	268	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	36	975	276	699	45	80	105	46	653	340	635	133	207	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	37	861	211	757	39	43	88	41	968	539	429	173	366	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	38	1150	314	836	27	72	153	62	822	436	714	151	285	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	39	1078	268	823	41	54	109	64	1091	597	494	234	363	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	40	1151	309	842	46	48	123	92	1049	578	573	217	361	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	41	979	224	906	32	39	109	44	1130	648	482	215	433	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	42	906	223	741	30	49	93	51	964	491	473	167	324	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	43	977	273	704	35	63	126	49	896	461	516	156	305	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	44	1058	290	768	31	47	128	84	945	492	566	206	286	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	45	898	252	762	36	50	116	50	1014	556	458	233	323	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	46	841	231	676	22	34	126	49	907	524	383	194	330	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	47	802	199	603	24	50	94	31	799	432	370	186	246	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	48	989	238	751	32	60	106	40	753	409	580	146	263	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	49	941	236	707	31	52	116	37	943	538	405	219	319	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	50	998	203	795	24	41	101	37	899	451	547	184	267	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	51	1108	358	750	54	56	184	64	944	470	638	211	259	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	52	664	149	972	24	25	75	25	1121	662	459	282	380	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	53	1022	254	768	31	72	94	57	648	333	689	158	175	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	54	1038	330	708	35	62	171	62	971	492	546	200	292	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	55	1002	292	733	48	63	123	58	1025	589	436	273	316	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	56	788	207	771	16	50	96	45	978	591	387	224	367	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	57	745	187	577	20	36	88	43	764	439	325	173	266	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	58	621	150	585	19	43	56	32	735	391	344	161	230	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	59	723	222	501	25	81	74	42	613	329	394	131	198	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	60	755	183	572	26	49	60	48	711	427	328	186	241	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	61	776	199	577	30	36	80	53	744	359	417	131	228	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	62	763	177	586	31	28	82	36	748	410	353	167	243	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	63	751	139	612	23	50	38	28	725	331	420	131	200	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	64	955	239	716	30	73	95	41	731	358	597	121	237	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	65	986	199	787	16	58	80	45	918	518	468	158	360	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	66	666	134	834	18	43	53	20	968	481	487	152	329	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	67	940	176	764	24	61	63	28	638	295	645	93	202	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	68	1065	243	822	35	93	82	33	908	410	655	145	265	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	69	922	248	755	28	66	108	46	1003	472	531	141	331	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	70	1048	217	831	42	69	64	42	860	421	627	162	259	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	71	881	191	810	25	51	67	48	1001	500	501	142	358	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	72	799	192	633	32	58	65	37	825	403	422	106	297	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	73	820	151	669	25	43	49	34	766	387	433	129	258	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	74	987	232	755	49	73	77	33	806	369	618	120	249	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	75	1064	231	833	32	78	78	43	955	471	593	123	348	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	76	887	194	809	37	63	71	23	1003	484	519	140	344	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	77	1058	207	851	22	70	70	45	829	406	652	106	300	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	78	945	215	799	22	70	68	55	1014	491	523	142	349	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508438	Banská Bystrica	79	691	150	757	20	61	34	35	907	420	487	96	324	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516643	Banská Štiavnica	1	914	195	815	14	19	66	96	1010	473	537	167	306	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516643	Banská Štiavnica	2	698	213	485	30	15	107	61	668	374	324	194	180	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516643	Banská Štiavnica	3	1045	249	796	49	36	104	60	1024	417	628	216	201	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516643	Banská Štiavnica	4	817	251	566	23	28	143	57	793	428	389	248	180	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516643	Banská Štiavnica	5	677	183	494	13	24	101	45	672	312	365	173	139	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516643	Banská Štiavnica	6	1000	232	768	37	30	115	50	992	467	533	223	244	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516643	Banská Štiavnica	7	835	220	615	24	27	109	60	819	371	464	164	207	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516643	Banská Štiavnica	8	942	221	721	28	42	111	40	922	425	517	212	213	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516643	Banská Štiavnica	9	762	175	594	22	32	72	49	769	312	457	139	173	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516643	Banská Štiavnica	10	621	146	485	19	27	54	46	631	294	337	136	158	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516651	Banskı Studenec	1	358	69	307	8	23	18	20	376	163	213	90	73	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514501	Barca	1	313	94	222	42	1	48	3	316	47	269	15	32	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516660	Bartošova Lehôtka	1	328	98	230	24	13	50	11	326	182	146	83	99	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514519	Bátka	1	734	156	578	48	22	52	34	722	237	497	43	194	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515876	Bátorová	1	305	39	266	5	2	25	7	302	118	187	51	67	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514535	Belín	1	142	53	89	17	10	23	3	142	65	77	41	24	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511234	Belina	1	501	122	379	29	6	66	21	499	146	355	3	143	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516678	Beluj	1	106	33	79	4	8	17	4	112	53	59	28	25	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508462	Beòuš	1	983	226	769	21	69	112	24	995	471	524	204	267	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	557315	Biskupice	1	917	196	721	31	19	108	38	900	316	601	51	265	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514543	Blhovce	1	619	140	480	57	7	44	32	620	194	426	20	174	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511251	Bo¾kovce	1	225	27	198	6	1	15	5	223	115	110	40	75	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511251	Bo¾kovce	2	311	64	247	10	8	44	2	309	172	139	119	53	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514551	Bottovo	1	168	53	115	6	10	32	5	168	102	66	75	27	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508489	Braväcovo	1	569	168	409	17	44	84	23	577	261	316	132	129	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	581607	Brehy	1	895	186	709	22	22	110	32	886	436	459	238	198	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518191	Breziny	1	287	83	205	6	13	64	0	288	154	134	111	43	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511269	Breznièka	1	637	148	489	17	36	86	9	634	292	345	190	102	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	1	905	228	677	26	72	85	45	878	414	491	177	237	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	2	1073	122	951	15	42	42	23	1027	246	827	126	120	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	3	883	260	623	24	79	99	58	838	478	405	216	262	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	4	961	284	677	28	95	89	72	946	495	466	173	322	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	5	853	249	604	29	59	121	40	826	441	412	232	209	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	6	645	169	476	12	62	60	35	620	312	333	144	168	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	7	905	226	685	18	64	116	28	911	490	421	235	255	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	8	866	220	646	19	68	80	53	831	450	416	215	235	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	9	928	235	693	44	78	92	21	887	427	501	222	205	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	10	734	233	501	39	46	111	37	710	423	311	195	228	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	11	612	166	446	18	49	74	25	587	318	294	160	158	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	12	728	152	576	17	50	59	26	706	351	377	158	193	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	13	745	219	526	24	52	99	44	737	368	377	171	197	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	14	854	225	629	51	74	78	22	848	352	502	144	208	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	15	1041	234	807	21	105	74	34	1022	500	541	175	325	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	16	1039	252	787	25	124	69	34	1018	459	580	126	333	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	17	1020	259	761	26	129	71	33	994	476	544	133	343	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	18	1012	221	791	29	118	49	25	970	379	633	137	242	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	19	645	85	560	11	30	25	19	622	275	370	111	164	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	20	845	160	685	34	61	40	25	842	199	646	87	112	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508497	Brezno	21	221	69	152	14	16	26	13	219	103	118	33	70	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515884	Brusník	1	87	16	84	1	2	12	1	100	57	43	40	17	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508675	Brusno	1	817	142	736	23	44	51	24	878	516	362	260	256	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508675	Brusno	2	948	173	802	33	48	72	20	975	485	490	253	232	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518204	Budèa	1	1052	242	810	44	27	136	35	1028	508	544	219	289	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514586	Budikovany	1	41	11	39	0	1	10	0	50	34	16	28	6	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511277	Budiná	1	215	93	132	13	20	59	1	225	128	97	96	32	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	558273	Bulhary	1	227	92	135	7	5	71	9	225	108	119	5	103	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515892	Bušince	1	1154	180	974	23	32	85	40	1111	385	769	153	232	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511293	Buzitka	1	432	121	311	9	24	77	11	429	233	199	127	106	
+Banskobystrickı kraj	602	Brezno	603	Brezno	557251	Bystrá	1	176	67	294	11	17	26	13	361	295	66	89	206	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516708	Bzenica	1	487	108	381	10	40	56	2	489	256	233	149	107	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518212	Bzovík	1	828	205	623	49	60	78	18	817	366	462	180	186	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518221	Bzovská Lehôtka	1	109	37	77	2	1	32	2	114	61	53	38	23	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514594	Cakov	1	211	66	145	10	1	52	3	208	41	170	25	16	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518239	Cerovo	1	468	148	320	37	19	89	3	445	215	253	146	69	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511315	Cinobaòa	1	1159	226	933	64	53	93	16	1133	463	696	260	203	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511315	Cinobaòa	2	495	93	402	30	8	47	8	484	186	309	157	29	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511315	Cinobaòa	3	167	21	147	5	3	12	1	168	76	92	52	24	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518247	Èabradskı Vrbovok	1	203	49	160	7	14	22	6	209	117	92	50	67	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511323	Èakanovce	1	774	188	586	28	17	91	52	766	299	475	22	277	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511331	Èamovce	1	413	92	326	24	8	42	18	418	208	210	27	181	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515906	Èebovce	1	925	128	797	5	9	70	44	845	384	541	46	338	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518255	Èekovce	1	345	69	283	16	6	40	7	352	148	204	77	71	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515914	Èeláre	1	326	57	269	6	6	21	24	320	142	184	35	107	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515922	Èelovce	1	315	45	276	10	10	24	1	321	125	196	106	19	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514608	Èerenèany	1	463	114	349	5	23	76	10	446	237	226	122	115	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508519	Èerín	1	258	79	182	12	19	32	16	261	148	113	76	72	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508519	Èerín	2	129	42	89	4	10	25	3	131	89	42	58	31	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515931	Èerveòany	1	20	9	22	0	2	7	0	31	25	6	16	9	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511340	Èeské Brezovo	1	359	97	263	15	33	42	7	360	190	170	110	80	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511340	Èeské Brezovo	2	56	10	59	2	3	4	1	69	47	22	31	16	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508527	Èierny Balog	1	853	182	671	21	62	76	23	844	324	529	122	202	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508527	Èierny Balog	2	1191	218	973	14	82	106	16	1184	558	633	314	244	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508527	Èierny Balog	3	1196	281	915	33	109	112	27	1193	529	667	228	301	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508527	Èierny Balog	4	895	181	714	12	95	59	15	893	502	393	244	258	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514616	Èierny Potok	1	132	40	101	4	14	21	1	141	77	64	63	14	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514624	Èí	1	524	114	429	12	11	76	15	543	183	360	41	142	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515949	Daèov Lom	1	340	53	287	7	8	33	5	336	162	178	104	58	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516716	Dekıš	1	176	67	114	14	9	28	16	181	108	73	56	52	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	1	480	96	384	7	19	58	12	480	216	264	130	86	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	2	466	126	341	4	33	80	9	467	191	276	114	77	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	3	612	173	455	9	34	129	1	628	275	353	157	118	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	4	389	92	300	12	20	56	4	392	180	212	92	88	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	5	1172	384	788	68	81	212	23	1168	543	629	313	230	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	6	1238	440	799	32	82	296	30	1239	647	592	407	240	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	7	877	254	623	23	88	113	30	820	409	468	176	233	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	8	1018	337	681	28	60	204	45	979	540	478	256	284	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	9	657	197	460	37	42	108	10	648	301	356	164	137	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	10	1030	273	757	14	63	170	26	1004	462	568	253	209	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	11	1272	419	853	96	63	217	43	1252	509	763	286	223	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	12	1087	317	770	22	61	197	37	1043	486	601	279	207	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	13	495	182	313	13	32	119	18	478	295	200	176	119	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	14	1232	333	899	24	76	210	23	1191	514	718	307	207	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518263	Detva	15	220	57	176	7	12	30	8	233	116	117	40	76	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518271	Detvianska Huta	1	384	85	299	12	15	57	1	384	176	208	117	59	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518271	Detvianska Huta	2	88	18	70	1	3	14	0	88	42	46	32	10	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518271	Detvianska Huta	3	120	32	88	5	7	15	5	120	63	57	41	22	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518280	Devièie	1	250	101	149	17	23	49	12	243	156	94	105	51	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511358	Divín	1	789	196	640	21	45	106	24	836	451	385	275	176	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511358	Divín	2	881	160	721	37	29	85	9	864	375	506	224	151	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518298	Dobrá Niva	1	1554	372	1182	21	49	236	66	1508	787	767	390	397	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511366	Dobroè	1	502	107	395	9	27	59	12	489	247	255	156	91	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511366	Dobroè	2	42	8	38	0	4	4	0	46	32	14	19	13	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515957	Dolinka	1	412	77	335	19	2	33	23	406	168	244	9	159	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508535	Dolná Lehota	1	609	97	547	23	13	53	8	644	322	322	196	126	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508543	Dolná Mièiná	1	311	77	243	16	16	35	10	320	161	159	72	89	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515965	Dolná Strehová	1	871	105	766	24	20	34	27	852	421	450	250	171	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516724	Dolná Trnávka	1	295	115	180	24	38	48	5	289	176	119	64	112	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516732	Dolná Ves	1	203	41	162	1	6	30	4	202	114	89	74	40	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516741	Dolná daòa	1	673	130	543	20	36	66	8	669	334	339	155	179	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518301	Dolné Mladonice	1	105	40	67	13	6	19	2	107	57	50	37	20	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515973	Dolné Plachtince	1	491	72	429	18	17	33	4	501	230	271	123	107	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515981	Dolné Strháre	1	173	43	136	6	4	22	11	179	93	86	57	36	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514632	Dolné Zahorany	1	157	37	121	5	4	21	7	158	93	65	8	85	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518310	Dolnı Badín	1	213	99	115	15	30	48	6	214	132	82	57	75	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508551	Dolnı Harmanec	1	192	48	145	8	14	19	7	193	102	91	52	50	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518336	Domaníky	1	163	39	126	12	3	23	1	165	85	80	42	43	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508560	Donovaly	1	175	56	268	7	22	19	8	324	242	82	58	184	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508578	Drábsko	1	160	40	124	2	9	28	1	164	78	86	45	33	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514641	Draice	1	181	25	156	5	4	10	6	181	66	115	6	60	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518344	Dráovce	1	101	32	79	9	4	16	3	111	70	41	44	26	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514659	Drienèany	1	161	54	115	7	17	30	0	169	85	84	41	44	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518352	Drienovo	1	87	32	61	10	9	8	5	93	51	42	21	30	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514667	Dròa	1	137	44	101	10	8	12	14	145	60	85	10	50	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	514675	Drkovce	1	403	172	233	40	23	81	28	405	141	264	19	122	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	557323	Ïubákovo	1	79	23	69	0	10	11	2	92	52	40	25	27	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514683	Dubno	1	120	57	78	7	8	33	9	135	53	82	10	43	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518361	Dubové	1	216	62	545	4	4	52	2	607	328	279	174	154	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514691	Dubovec	1	391	98	293	28	16	42	12	381	128	263	7	121	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508586	Dúbravica	1	303	100	203	15	26	44	15	295	139	164	89	50	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518379	Dúbravy	1	537	183	354	20	34	126	3	525	278	259	156	122	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518379	Dúbravy	2	167	58	111	3	8	45	2	169	90	79	67	23	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518379	Dúbravy	3	98	53	50	5	14	29	5	103	65	38	37	28	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518387	Dudince	1	1245	261	1319	24	44	156	37	1580	991	589	473	518	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	557919	Dulovo	1	120	20	104	10	3	6	1	124	40	84	6	34	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515990	Ïurkovce	1	113	26	90	8	0	16	2	116	51	65	13	38	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514713	Figa	1	316	99	217	61	13	17	8	305	103	213	37	66	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511391	Fi¾akovo	1	961	175	786	18	39	82	36	925	334	627	83	251	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511391	Fi¾akovo	2	882	136	746	41	11	60	24	864	258	624	44	214	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511391	Fi¾akovo	3	924	158	766	23	11	93	31	886	275	649	75	200	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511391	Fi¾akovo	4	918	197	721	26	22	92	57	890	342	576	72	270	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511391	Fi¾akovo	5	1013	218	795	27	29	100	62	979	401	612	75	326	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511391	Fi¾akovo	6	621	85	536	14	8	48	15	611	184	437	35	149	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511391	Fi¾akovo	7	946	97	849	14	15	51	17	923	199	747	36	163	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511391	Fi¾akovo	8	762	137	625	27	15	61	34	741	222	540	54	168	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511391	Fi¾akovo	9	1181	184	997	32	24	86	42	1152	322	859	56	266	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511404	Fi¾akovské Kováèe	1	705	104	604	19	15	53	17	708	239	469	46	193	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	514721	Gemer	1	689	90	599	27	11	19	33	683	248	441	38	210	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514730	Gemerèek	1	90	17	75	0	1	11	5	92	39	53	5	34	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	514756	Gemerská Ves	1	695	78	623	29	7	36	6	701	186	515	31	155	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514764	Gemerské Dechtáre	1	363	129	234	21	6	75	27	358	147	216	15	132	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	557889	Gemerské Michalovce	1	79	26	53	5	1	4	16	77	43	36	2	41	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525677	Gemerské Teplice	1	165	44	122	5	6	33	0	166	86	80	80	6	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525677	Gemerské Teplice	2	132	47	86	7	9	27	4	133	79	54	56	23	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514781	Gemerskı Jablonec	1	585	196	389	32	10	123	31	580	186	399	24	162	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525685	Gemerskı Sad	1	107	26	87	5	12	9	0	113	57	56	28	29	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525685	Gemerskı Sad	2	134	43	92	10	9	17	7	135	64	71	16	48	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516007	Glabušovce	1	94	38	59	2	0	31	5	97	63	34	12	51	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514799	Gortva	1	393	76	317	50	3	12	11	390	60	333	16	44	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	557331	Gregorova Vieska	1	107	26	81	3	5	11	7	107	56	51	26	30	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514811	Hajnáèka	1	961	232	729	26	8	168	30	956	438	523	108	330	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511421	Haliè	1	1387	369	1018	49	85	152	83	1340	670	717	261	409	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508594	Harmanec	1	750	130	620	17	35	63	15	740	321	429	198	123	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508608	He¾pa	1	745	138	607	18	49	60	11	716	382	363	218	164	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508608	He¾pa	2	791	81	710	7	32	32	10	774	347	444	229	118	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508608	He¾pa	3	760	151	609	20	65	50	16	741	398	362	259	139	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508616	Hiade¾	1	433	92	349	6	22	34	30	441	193	248	106	87	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516767	Hliník nad Hronom	1	1236	201	1035	39	47	98	17	1210	625	611	300	325	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516767	Hliník nad Hronom	2	1182	269	913	26	58	159	26	1123	604	578	298	306	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514829	Hnúša	1	342	63	279	15	14	25	9	228	80	262	44	36	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514829	Hnúša	2	704	80	624	14	31	30	5	703	158	546	107	51	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514829	Hnúša	3	845	155	690	17	37	79	22	805	286	559	161	125	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514829	Hnúša	4	1182	300	882	21	114	120	45	1146	481	701	251	230	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514829	Hnúša	5	670	180	490	5	55	101	19	644	293	377	201	92	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514829	Hnúša	6	917	225	692	16	92	84	33	843	356	561	178	178	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514829	Hnúša	7	1053	183	870	43	54	69	17	1041	328	725	195	133	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514837	Hodejov	1	1053	187	872	89	47	37	14	1059	267	792	86	181	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514845	Hodejovec	1	156	17	141	1	4	8	4	158	72	86	22	50	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	516759	Hodruša - Hámre	1	561	86	502	8	13	47	18	588	237	351	115	122	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	516759	Hodruša - Hámre	2	1186	297	889	34	28	183	52	1138	552	634	347	205	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	516759	Hodruša - Hámre	3	104	37	81	1	10	23	3	118	77	41	47	30	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511439	Holiša	1	480	55	425	11	2	26	16	466	173	307	63	110	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518409	Hontianske Moravce	1	714	252	462	32	55	152	13	677	316	398	201	115	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518417	Hontianske Nemce	1	1223	204	1019	21	54	101	28	1200	564	659	306	258	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518425	Hontianske Tesáre	1	415	78	337	32	7	33	6	415	145	270	83	62	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518425	Hontianske Tesáre	2	51	16	41	1	0	15	0	57	35	22	28	7	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518425	Hontianske Tesáre	3	145	22	124	2	2	17	1	146	64	82	37	27	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518425	Hontianske Tesáre	4	84	32	66	13	4	12	3	98	63	35	36	27	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508624	Horná Lehota	1	480	106	374	6	28	60	12	444	226	254	91	135	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508632	Horná Mièiná	1	473	135	338	22	28	63	22	469	268	205	107	161	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516015	Horná Strehová	1	132	30	108	9	11	8	2	138	74	64	26	48	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	581747	Horná Ves	1	595	112	786	12	30	44	26	898	444	454	279	165	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516791	Horná daòa	1	435	95	340	16	11	61	7	430	213	222	113	100	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	516805	Horné Hámre	1	492	114	392	15	30	62	7	506	284	222	147	137	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518433	Horné Mladonice	1	134	60	86	22	8	30	0	146	73	73	41	32	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516023	Horné Plachtince	1	172	28	147	8	7	12	1	175	71	104	54	17	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508641	Horné Pršany	1	321	119	202	25	23	55	16	319	196	125	102	94	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516031	Horné Strháre	1	190	42	150	11	8	20	3	192	100	92	37	63	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514853	Horné Zahorany	1	112	41	71	5	11	22	3	105	70	42	45	25	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518441	Hornı Badín	1	147	82	66	12	20	40	10	148	97	51	47	50	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518450	Hornı Tisovník	1	177	75	106	10	18	40	7	181	124	57	77	47	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514861	Hostice	1	675	215	466	109	15	45	46	681	145	536	17	128	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514870	Hostišovce	1	158	25	133	5	2	17	1	156	53	105	47	6	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	516813	Hrabièov	1	474	93	398	22	22	45	4	491	238	253	149	89	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511447	Hradište	1	218	86	735	4	22	57	3	821	438	383	245	193	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514888	Hrachovo	1	656	141	515	12	50	71	8	640	314	342	205	109	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514888	Hrachovo	2	57	22	36	2	9	10	1	58	27	31	14	13	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518468	Hriòová	1	418	77	341	15	6	56	0	414	174	244	138	36	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518468	Hriòová	2	742	210	532	26	37	130	17	740	276	466	199	77	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518468	Hriòová	3	201	60	154	9	6	42	3	214	80	134	54	26	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518468	Hriòová	4	220	82	148	3	11	65	3	230	105	125	82	23	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518468	Hriòová	5	196	52	159	3	5	42	2	211	97	114	65	32	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518468	Hriòová	6	375	76	301	8	20	41	7	377	142	235	107	35	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518468	Hriòová	7	512	114	398	16	22	63	13	495	197	315	137	60	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518468	Hriòová	8	814	215	599	30	25	127	33	798	368	446	233	135	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518468	Hriòová	9	768	232	571	20	25	160	27	803	426	377	252	174	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	514896	Hrlica	1	61	22	40	5	5	12	0	62	30	32	21	9	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	514900	Hrnèiarska Ves	1	655	182	473	42	53	75	12	648	274	381	171	103	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	514900	Hrnèiarska Ves	2	106	22	89	1	7	14	0	111	45	66	35	10	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	514918	Hrnèiarske Zaluany	1	720	179	541	26	43	87	23	708	325	395	171	154	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508659	Hrocho	1	956	133	837	33	42	39	19	970	434	536	281	153	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508659	Hrocho	2	229	27	202	11	7	5	4	224	129	100	55	74	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508667	Hronec	1	951	220	778	19	42	136	23	998	494	504	237	257	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	580236	Hronsek	1	542	134	410	8	35	64	27	544	339	205	161	178	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518476	Hronská Breznica	1	221	66	155	1	8	46	11	212	125	96	84	41	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516821	Hronská Dúbrava	1	330	75	260	7	5	55	8	335	174	161	103	71	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	516830	Hronskı Beòadik	1	822	116	706	23	13	74	6	807	402	420	282	120	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	516830	Hronskı Beòadik	2	185	49	137	5	26	13	5	186	92	94	42	50	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516040	Hrušov	1	698	140	558	14	9	103	14	669	328	370	236	92	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514926	Hrušovo	1	112	23	92	2	4	17	0	115	70	45	55	15	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514926	Hrušovo	2	56	25	33	2	1	19	3	58	38	20	25	13	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514934	Hubovo	1	113	17	98	3	0	11	3	115	45	70	3	42	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525766	Hucín	1	629	81	549	17	10	46	8	630	142	488	37	105	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514942	Husiná	1	374	37	337	4	1	25	7	371	145	229	20	125	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514951	Chanava	1	542	127	416	22	2	68	35	543	202	341	14	188	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514969	Chrámec	1	303	96	207	19	17	51	9	297	126	177	13	113	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516058	Chrastince	1	199	29	173	11	4	7	7	202	71	131	17	54	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516066	Chrany	1	122	41	83	9	5	25	2	124	66	58	47	19	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	514977	Chvalová	1	130	48	84	12	6	24	6	132	65	67	33	32	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525774	Chyné	1	328	57	271	6	21	26	4	328	150	178	81	69	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516848	Ihráè	1	460	64	396	9	11	39	5	457	222	238	106	116	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516856	Ilija	1	271	70	207	14	19	21	16	277	146	131	80	66	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516074	Ipe¾ské Predmostie	1	535	97	438	12	5	55	25	507	203	332	16	187	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514985	Ivanice	1	180	72	121	38	12	20	2	193	81	112	19	62	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518484	Jalšovík	1	164	68	96	9	11	38	10	156	93	71	51	42	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514993	Janice	1	138	88	62	29	7	46	6	150	68	82	13	55	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516872	Janova Lehota	1	775	388	394	65	65	236	22	782	500	282	297	203	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508691	Jarabá	1	35	10	40	3	2	5	0	50	34	16	12	22	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508705	Jasenie	1	958	168	790	19	36	101	12	947	442	516	264	178	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516881	Jastrabá	1	471	85	394	23	14	35	13	479	227	252	92	135	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525791	Jelšava	1	1128	87	1041	19	41	18	9	1120	253	875	166	87	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525791	Jelšava	2	1150	160	990	25	81	36	18	1138	318	832	163	155	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511463	Jelšovec	1	227	57	170	8	5	43	1	226	67	160	39	28	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515001	Jesenské	1	872	125	747	44	20	34	27	44	33	839	23	10	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515001	Jesenské	2	914	90	825	12	38	21	19	915	315	600	84	231	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515019	Jestice	1	139	34	105	7	0	18	9	132	39	100	6	33	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511471	Kalinovo	1	948	217	731	20	41	128	28	927	481	467	253	228	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511471	Kalinovo	2	915	186	729	24	39	106	17	914	437	478	225	212	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511480	Kalonda	1	181	22	161	1	2	15	4	183	84	99	12	72	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515027	Kaloša	1	521	116	408	57	10	30	19	524	197	327	22	175	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525812	Kameòany	1	539	77	478	13	28	34	2	555	123	432	91	32	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516082	Kamenné Kosihy	1	292	76	216	2	2	36	36	276	169	123	19	150	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515035	Kesovce	1	163	65	98	30	0	35	0	159	68	95	63	5	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516091	Kiarov	1	266	113	153	13	7	61	32	263	117	149	12	105	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	516902	K¾ak	1	191	52	145	6	9	34	3	197	109	88	76	33	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516104	Kleòany	1	249	50	199	9	0	33	8	240	80	169	11	69	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515043	Klenovec	1	804	196	608	15	80	84	17	782	339	465	223	116	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515043	Klenovec	2	801	178	623	8	54	103	13	782	332	469	230	102	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515043	Klenovec	3	865	190	679	17	53	94	26	869	323	546	234	89	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518492	Klokoè	1	416	129	290	3	22	79	25	419	221	198	157	64	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515051	Kociha	1	166	28	138	4	5	19	0	163	84	82	54	30	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511498	Kokava nad Rimavicou	1	798	350	448	55	48	239	8	779	311	487	214	97	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511498	Kokava nad Rimavicou	2	797	334	472	53	88	178	15	806	401	405	236	165	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511498	Kokava nad Rimavicou	3	805	368	437	31	81	241	15	790	392	413	239	153	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516112	Koláre	1	243	60	183	11	5	12	32	207	97	146	9	88	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515060	Konrádovce	1	250	33	223	12	6	6	9	256	93	163	22	71	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516937	Kopernica	1	342	38	312	6	16	9	7	350	135	215	63	72	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508713	Kordíky	1	320	96	236	12	33	24	27	332	217	115	73	144	
+Banskobystrickı kraj	606	Zvolen	604	Detva	580520	Korytárky	1	790	295	502	28	40	186	41	797	402	395	256	146	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516121	Kosihovce	1	459	61	398	8	4	44	5	456	160	299	60	100	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516139	Kosihy nad Ip¾om	1	397	56	341	7	0	29	20	390	165	232	15	150	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516945	Kosorín	1	359	77	282	14	10	44	9	357	185	174	113	72	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511374	Kotmanová	1	265	55	219	5	24	24	2	274	148	126	104	44	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518506	Kováèová	1	1264	407	920	47	63	247	50	1327	794	533	343	451	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516147	Kováèovce	1	311	126	185	8	11	51	56	288	128	183	25	103	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516953	Kozelník	1	152	49	103	11	17	17	4	149	71	81	51	20	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518514	Kozí Vrbovok	1	132	48	84	6	11	26	5	132	74	58	39	35	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516961	Krahule	1	156	51	125	12	5	18	16	176	120	56	36	84	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515078	Krá¾	1	744	190	554	75	26	49	40	742	267	477	58	209	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508721	Králiky	1	525	142	399	14	32	73	23	541	340	201	154	186	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518531	Krá¾ovce - Krnišov	1	152	46	115	8	7	24	7	161	86	75	57	29	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515086	Kraskovo	1	114	37	77	0	14	20	3	107	66	48	51	15	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516970	Kremnica	1	836	219	617	33	47	73	66	835	455	381	146	309	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516970	Kremnica	2	859	174	685	20	29	83	42	842	395	464	177	218	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516970	Kremnica	3	836	170	666	18	35	79	38	834	350	486	139	211	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516970	Kremnica	4	940	218	722	35	64	83	36	928	544	396	188	356	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516970	Kremnica	5	996	216	780	32	57	73	54	962	512	484	204	308	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516988	Kremnické Bane	1	211	34	188	6	3	18	7	222	110	112	45	65	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518549	Kriváò	1	778	237	541	27	49	135	26	770	375	403	208	167	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518549	Kriváò	2	631	189	442	33	30	113	13	629	329	302	209	120	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511501	Krná	1	50	22	31	4	3	15	0	53	28	25	24	4	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515094	Krokava	1	24	13	16	0	7	6	0	29	20	9	15	5	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518557	Krupina	1	1190	301	889	51	99	106	45	1185	478	712	226	252	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518557	Krupina	2	1042	301	741	47	62	144	48	1029	482	560	244	238	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518557	Krupina	3	863	248	615	34	58	123	33	823	421	442	198	223	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518557	Krupina	4	1239	360	879	53	112	153	42	1145	490	749	216	274	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518557	Krupina	5	1098	259	845	43	109	80	27	1104	447	657	203	244	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518557	Krupina	6	897	270	627	50	68	119	33	884	421	476	197	224	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515108	Kruno	1	297	44	253	3	13	27	1	290	140	157	86	54	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516996	Kunešov	1	193	16	177	2	3	10	1	192	68	125	35	33	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515116	Kyjatice	1	57	23	36	3	6	10	4	59	33	26	24	9	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	557277	Kynce¾ová	1	317	90	233	7	28	38	17	323	202	121	97	105	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518565	Lackov	1	86	28	61	5	11	10	2	89	54	35	36	18	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	599328	Ladomerská Vieska	1	657	164	493	28	31	80	25	654	349	308	188	161	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518573	Ladzany	1	248	76	177	14	15	42	5	253	190	63	149	41	
+Banskobystrickı kraj	606	Zvolen	604	Detva	511510	Látky	1	57	10	49	1	0	9	0	59	29	30	16	13	
+Banskobystrickı kraj	606	Zvolen	604	Detva	511510	Látky	2	409	117	309	8	21	80	8	426	246	180	161	85	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515124	Lehota nad Rimavicou	1	239	67	172	7	21	30	9	233	123	116	75	48	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511528	Lehôtka	1	282	66	216	10	10	42	4	280	123	159	80	43	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517011	Lehôtka pod Brehmi	1	327	82	250	7	24	47	4	332	173	159	101	72	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515132	Lenartovce	1	412	132	286	46	6	46	34	418	176	242	7	169	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515141	Lenka	1	161	62	99	4	5	17	36	159	94	67	22	72	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511536	Lentvora	1	50	18	43	2	0	16	0	61	30	31	16	14	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516155	Lesenice	1	451	107	344	12	18	32	45	442	210	241	74	136	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518581	Leš (vojenskı obvod)	1	66	13	54	2	4	6	1	67	31	36	19	12	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515574	Leváre	1	83	38	46	8	5	19	6	84	47	37	2	45	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515159	Levkuška	1	182	27	156	6	4	11	6	183	78	105	14	64	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525901	Licince	1	489	93	398	45	12	28	8	491	153	338	37	116	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	558133	Lieskovec	1	1180	301	879	31	45	204	21	1131	614	566	286	328	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511544	Lipovany	1	210	76	134	8	9	53	6	210	105	105	70	35	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515167	Lipovec	1	50	8	768	1	0	3	4	776	455	321	168	287	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518603	Lišov	1	188	81	119	5	6	68	2	200	115	85	66	49	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518611	Litava	1	573	209	368	51	29	119	10	577	220	357	129	91	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508730	Lom nad Rimavicou	1	233	68	183	7	11	41	9	251	170	81	98	72	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517020	Lovèa	1	589	169	420	31	14	108	16	579	310	279	144	166	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517038	Lovèica - Trubín	1	694	134	560	35	26	55	18	685	331	363	151	180	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517038	Lovèica - Trubín	2	582	122	460	25	14	71	12	579	325	257	153	172	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511552	Lovinobaòa	1	1483	325	1158	26	96	171	32	1457	561	922	355	206	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511552	Lovinobaòa	2	173	49	124	8	12	24	5	172	87	86	50	37	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525928	Lubeník	1	1056	203	853	52	48	80	23	1020	388	668	252	136	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508748	¼ubietová	1	930	197	733	44	56	70	27	902	459	471	175	284	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511561	¼uboreè	1	269	55	225	14	10	21	10	280	120	160	47	73	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516163	¼uborieèka	1	114	30	90	3	1	15	11	120	68	52	33	35	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508756	Luèatín	1	549	132	426	17	40	44	31	558	321	237	130	191	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	1	1463	256	1207	35	51	99	71	1423	592	871	149	443	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	2	1201	203	998	21	52	75	55	1173	492	709	156	336	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	3	875	209	676	27	20	121	41	885	425	460	160	265	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	4	1180	222	958	21	47	104	50	1155	468	712	145	323	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	5	970	144	826	19	31	68	26	954	387	583	125	262	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	6	649	134	515	19	21	56	38	633	276	373	111	165	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	7	501	90	411	10	25	29	26	479	215	286	55	160	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	8	808	140	668	12	25	70	33	769	378	430	122	256	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	9	818	178	640	25	22	100	31	776	372	446	152	220	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	10	1271	204	1067	21	30	112	41	1263	409	862	153	256	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	11	760	163	598	31	20	82	30	761	410	351	178	232	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	12	728	158	570	20	37	69	32	722	332	396	140	192	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	13	962	190	772	23	30	90	47	917	415	547	174	241	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	14	649	155	494	20	31	73	31	623	340	309	136	204	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	15	933	177	756	21	26	94	36	902	422	511	154	268	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	16	830	114	716	19	33	48	14	803	280	550	104	176	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	17	865	113	752	16	28	43	26	843	347	518	121	226	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	18	888	151	737	23	24	84	20	866	377	511	169	208	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	19	936	142	794	20	30	61	31	901	345	591	138	207	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	20	757	150	607	21	36	66	27	738	350	407	112	238	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	21	835	112	723	5	29	56	22	786	280	555	104	176	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	22	770	86	684	7	15	49	15	742	223	547	80	143	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	23	1054	187	867	24	35	109	19	1025	419	635	164	255	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	24	929	130	799	22	32	56	20	878	363	566	143	220	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	25	709	119	590	24	11	50	34	690	316	393	125	191	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511218	Luèenec	26	349	68	281	6	13	37	12	345	171	178	52	119	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517046	Lúèky	1	173	45	724	8	14	19	4	769	422	347	186	236	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	558087	Lukavica	1	130	36	108	4	4	22	6	144	89	55	36	53	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515175	Lukovištia	1	157	31	126	7	6	16	2	153	71	86	43	28	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511579	Lupoè	1	189	50	145	6	6	38	0	195	81	114	49	32	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	599336	Lutila	1	1118	228	890	31	52	107	38	1109	623	495	273	350	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525944	Magnezitovce	1	265	48	226	9	7	31	1	274	120	154	99	21	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525944	Magnezitovce	2	81	17	65	6	4	6	1	82	28	54	25	3	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516171	Malá Èalomija	1	189	38	151	8	4	18	8	173	89	100	64	25	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517062	Malá Lehota	1	761	99	691	22	9	65	3	790	405	385	279	126	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	580244	Malachov	1	899	205	694	22	35	101	47	899	512	387	225	287	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	558206	Malé Straciny	1	106	27	79	4	2	21	0	101	51	55	32	19	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516198	Malé Zlievce	1	224	63	161	3	11	35	14	218	111	113	54	57	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511595	Málinec	1	539	196	354	24	40	114	18	550	260	290	195	65	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511595	Málinec	2	609	178	431	37	52	84	5	608	306	303	211	95	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	558192	Malı Krtíš	1	426	73	353	23	17	16	17	417	196	230	78	118	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515183	Martinová	1	150	41	112	10	0	29	2	153	44	109	15	29	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511609	Mašková	1	257	65	196	7	18	34	6	261	108	153	65	43	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518646	Medovarce	1	176	56	125	22	11	22	1	181	85	96	52	33	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508764	Medzibrod	1	1121	386	735	92	97	163	34	1119	661	460	300	361	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518654	Michalková	1	35	13	33	1	3	6	3	46	30	16	16	14	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508772	Michalová	1	598	110	488	4	34	56	16	590	272	326	150	122	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	580309	Mikušovce	1	229	63	751	9	10	38	6	814	407	407	262	145	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511617	Mládzovo	1	93	55	46	7	5	34	9	101	77	24	55	22	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	517071	Moèiar	1	134	40	94	18	5	13	4	126	74	60	59	15	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516210	Modrı Kameò	1	1282	217	1065	26	46	116	29	1271	581	701	350	231	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	580384	Mokrá Lúka	1	435	180	255	7	43	116	14	424	261	174	129	132	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508781	Môlèa	1	301	38	263	3	10	16	9	301	95	206	41	54	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508799	Moštenica	1	177	51	136	2	6	38	5	187	111	76	60	51	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508802	Motyèky	1	86	29	58	3	11	15	0	87	74	13	40	34	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511625	Muèín	1	562	77	485	16	11	32	18	553	183	379	49	134	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516228	Mu¾a	1	239	36	203	18	1	12	5	221	65	174	20	45	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525987	Muráò	1	959	170	789	16	58	77	19	927	404	555	218	186	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	525995	Muránska Dlhá Lúka	1	646	223	423	34	92	73	24	643	366	280	222	144	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526002	Muránska Huta	1	93	22	85	11	1	10	0	107	69	38	26	43	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526002	Muránska Huta	2	71	14	116	5	2	3	4	130	98	32	31	67	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526011	Muránska Lehota	1	167	32	142	6	5	20	1	174	98	76	65	33	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526029	Muránska Zdychava	1	196	46	154	6	12	27	1	200	95	105	69	26	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511641	Mıtna	1	957	211	746	25	35	118	33	955	378	579	240	138	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508811	Mıto pod Ïumbierom	1	437	134	303	25	34	52	23	418	301	136	101	200	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526037	Nandra	1	176	87	93	24	20	42	1	180	85	95	73	12	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	557285	Nemce	1	987	240	747	36	76	96	32	967	516	471	217	299	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508829	Nemecká	1	770	283	503	56	92	113	22	786	364	422	203	161	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508829	Nemecká	2	718	246	487	38	85	103	20	733	346	387	202	144	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516236	Nenince	1	1160	391	769	46	13	102	230	1115	520	640	65	455	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515205	Neporadza	1	176	87	568	9	6	72	0	655	325	330	157	168	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517089	Nevo¾né	1	342	81	261	8	7	54	12	335	204	138	86	118	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511668	Nitra nad Ip¾om	1	244	77	167	7	1	4	65	243	89	155	6	83	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	557790	Ninı Skálnik	1	161	49	112	3	19	25	2	157	81	80	31	50	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517097	Nová Baòa	1	1210	249	961	38	38	131	42	1174	575	635	252	323	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517097	Nová Baòa	2	1520	352	1168	64	60	162	66	1488	701	819	306	395	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517097	Nová Baòa	3	1576	329	1247	78	55	132	64	1556	824	752	292	532	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517097	Nová Baòa	4	1043	234	809	31	30	134	39	1015	506	537	248	258	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517097	Nová Baòa	5	297	32	265	4	1	22	5	296	113	184	57	56	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517097	Nová Baòa	6	474	101	390	24	15	38	24	491	253	238	96	157	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515230	Nová Bašta	1	434	141	293	41	3	76	21	411	142	292	16	126	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516244	Nová Ves	1	318	91	232	8	12	68	3	323	174	149	128	46	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511676	Nové Hony	1	159	32	127	5	6	16	5	153	77	82	26	51	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516252	Obeckov	1	413	36	377	5	7	16	8	408	173	240	104	69	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518662	Oèová	1	976	200	776	15	34	124	27	960	418	558	249	169	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518662	Oèová	2	1015	238	782	19	43	161	15	1020	525	495	304	221	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518662	Oèová	3	154	59	95	3	14	42	0	140	65	89	49	16	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516261	Olováry	1	257	117	140	20	3	53	41	249	147	110	18	129	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516279	Opatovská Nová Ves	1	561	182	379	29	16	95	42	528	221	340	37	184	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516287	Opava	1	96	10	87	0	3	6	1	97	43	54	29	14	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508837	Oravce	1	145	25	120	4	5	16	0	142	85	60	49	36	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515248	Orávka	1	128	51	80	2	10	36	3	131	77	54	49	28	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	580546	Orovnica	1	473	89	384	21	25	37	6	473	229	244	121	108	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508845	Osrblie	1	319	88	261	8	28	47	5	349	215	134	114	101	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518671	Ostrá Lúka	1	247	65	186	2	4	54	5	251	131	120	79	52	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517119	Ostrı Grúò	1	433	107	326	9	19	67	12	428	235	198	162	73	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515256	Otroèok	1	229	60	170	7	5	20	28	230	102	128	11	91	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511684	Ozdín	1	149	57	92	8	7	35	7	143	94	55	62	32	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511684	Ozdín	2	159	27	132	4	4	19	0	135	62	97	48	14	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515264	Oïany	1	1303	260	1043	36	80	115	29	1287	545	758	166	379	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515272	Padarovce	1	141	40	107	6	1	16	17	147	64	83	24	40	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511692	Panické Dravce	1	593	95	498	16	10	34	35	592	264	329	44	220	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515281	Pavlovce	1	260	93	167	18	3	9	63	233	61	199	13	48	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515299	Petrovce	1	205	51	154	11	1	26	13	195	103	102	5	98	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511706	Píla	1	218	41	254	9	11	20	1	295	189	106	74	115	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517127	Píla	1	103	15	205	3	5	7	0	220	133	87	88	45	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511714	Pinciná	1	195	47	148	14	4	14	15	192	101	94	26	75	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517135	Pitelová	1	566	91	475	15	23	51	2	559	267	299	122	145	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511722	Pleš	1	176	38	138	10	5	19	4	170	71	105	13	58	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518689	Pliešovce	1	864	137	727	18	33	71	15	837	419	445	176	243	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518689	Pliešovce	2	806	126	680	20	15	81	10	802	392	414	221	171	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518689	Pliešovce	3	155	12	171	2	0	7	3	183	103	80	36	67	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515302	Ploské	1	63	9	60	1	2	5	1	69	27	42	14	13	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	517160	Poèúvadlo	1	74	26	64	9	3	6	8	90	63	27	39	24	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508853	Podbrezová	1	672	173	499	18	38	95	22	672	339	333	190	149	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508853	Podbrezová	2	1189	209	980	22	40	116	31	1153	557	632	313	244	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508853	Podbrezová	3	192	33	171	5	14	8	6	204	104	100	46	58	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508853	Podbrezová	4	1258	192	1066	18	114	46	14	1231	499	759	262	237	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	517143	Podhorie	1	295	103	566	19	23	30	31	669	418	251	243	175	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508861	Podkonice	1	746	149	597	18	56	50	25	740	403	343	155	248	
+Banskobystrickı kraj	606	Zvolen	604	Detva	511731	Podkriváò	1	354	83	291	15	11	50	7	374	208	166	111	97	
+Banskobystrickı kraj	606	Zvolen	604	Detva	511731	Podkriváò	2	124	25	108	5	10	8	2	133	73	60	45	28	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511749	Podreèany	1	482	72	410	13	22	34	3	482	201	281	129	72	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518697	Podzámèok	1	374	119	255	13	12	74	20	373	221	153	87	134	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508870	Pohorelá	1	901	157	744	16	86	49	6	887	384	517	281	103	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508870	Pohorelá	2	819	93	729	8	34	43	8	822	389	433	257	132	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508870	Pohorelá	3	178	43	138	5	17	17	4	181	105	76	64	41	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508888	Pohronská Polhora	1	648	86	574	13	33	30	10	660	246	414	153	93	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508888	Pohronská Polhora	2	711	108	608	11	44	40	13	716	315	401	160	155	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508896	Pohronskı Bukovec	1	86	36	50	7	4	25	0	80	44	42	39	5	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511757	Polichno	1	106	20	102	0	1	17	2	122	58	64	39	19	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515311	Polina	1	98	26	75	3	2	14	7	101	40	61	8	32	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508900	Polomka	1	903	140	763	11	56	60	13	890	303	600	188	115	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508900	Polomka	2	701	110	591	7	29	55	19	684	313	388	155	158	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508900	Polomka	3	862	134	728	4	67	50	13	856	366	496	201	165	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511765	Poltár	1	814	315	499	34	87	174	20	757	389	425	233	156	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511765	Poltár	2	955	244	711	39	70	125	10	944	401	554	246	155	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511765	Poltár	3	820	265	555	28	112	102	23	789	337	483	159	178	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511765	Poltár	4	858	248	610	18	82	140	8	853	426	432	268	158	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511765	Poltár	5	955	253	702	63	51	129	10	935	413	542	257	156	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511765	Poltár	6	171	78	95	8	35	29	6	173	101	72	44	57	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511765	Poltár	7	124	58	70	5	17	27	9	128	80	48	51	29	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508918	Poniky	1	773	155	621	14	53	63	25	776	400	376	191	209	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508918	Poniky	2	229	46	185	12	14	18	2	231	136	95	73	63	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508918	Poniky	3	279	67	213	9	33	13	12	280	142	138	51	91	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515337	Poproè	1	18	7	13	0	0	7	0	20	14	6	13	1	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515345	Potok	1	37	8	90	0	3	5	0	98	71	27	52	19	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516295	Pôtor	1	465	70	395	3	18	40	9	454	180	285	133	47	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516295	Pôtor	2	202	40	166	5	13	21	1	206	103	103	73	30	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508926	Povrazník	1	122	58	72	6	15	35	2	130	88	42	63	25	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511773	Praha	1	69	21	50	6	0	7	8	71	31	40	20	11	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516309	Pravica	1	85	5	82	1	2	1	1	87	26	61	5	21	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508934	Predajná	1	1112	189	931	15	50	103	21	1120	581	539	274	307	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	517178	Prenèov	1	540	133	410	21	12	81	19	543	278	265	169	109	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517186	Prestavlky	1	539	217	322	38	42	131	6	532	298	241	219	79	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516317	Príbelce	1	472	92	380	15	15	51	11	461	229	243	141	88	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508942	Priechod	1	787	183	604	19	68	51	45	776	392	395	109	283	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526100	Prihradzany	1	70	27	47	8	6	9	4	74	52	22	30	22	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517194	Prochot	1	497	160	349	35	17	94	14	509	307	202	197	110	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511781	Prša	1	154	39	119	4	2	27	6	158	76	82	1	75	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515353	Radnovce	1	553	114	446	43	5	56	10	560	164	396	4	160	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511790	Radzovce	1	1351	374	977	43	16	245	70	1333	514	837	81	433	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526118	Rákoš	1	346	64	282	4	21	36	3	336	117	229	83	34	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	557854	Rakytník	1	195	69	131	18	9	12	30	200	60	140	22	38	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511803	Rapovce	1	755	140	615	28	4	99	9	754	278	477	85	193	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515361	Rašice	1	107	37	72	2	2	29	4	109	50	59	2	48	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511811	Ratka	1	299	168	131	16	16	125	11	273	131	168	90	41	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515370	Ratková	1	416	96	320	8	17	37	34	413	169	247	103	66	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515388	Ratkovská Lehota	1	51	27	24	1	12	11	3	43	29	22	7	22	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515396	Ratkovská Suchá	1	42	16	33	3	5	5	3	49	32	17	12	20	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515400	Ratkovské Bystré	1	304	104	200	6	29	64	5	291	144	160	109	35	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508951	Ráztoka	1	244	76	168	3	4	58	11	238	130	114	92	38	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517216	Repište	1	258	88	190	25	17	41	5	278	164	114	93	71	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526142	Revúca	1	1022	157	865	21	54	48	34	989	402	620	160	242	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526142	Revúca	2	891	194	697	14	47	114	19	858	381	510	220	161	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526142	Revúca	3	1111	245	866	29	83	115	18	1084	477	634	255	222	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526142	Revúca	4	911	186	725	19	51	94	22	896	381	530	200	181	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526142	Revúca	5	1119	185	934	31	78	60	16	1091	459	660	232	227	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526142	Revúca	6	901	165	736	13	60	82	10	896	380	521	219	161	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526142	Revúca	7	1073	219	854	38	57	89	35	1063	403	670	192	211	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526142	Revúca	8	1066	119	947	22	26	60	11	1065	312	754	194	118	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526142	Revúca	9	945	251	694	25	81	110	35	913	495	450	223	272	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526142	Revúca	10	482	118	364	12	53	37	16	469	234	248	98	136	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526142	Revúca	11	883	142	741	13	56	65	8	853	367	516	212	155	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526151	Revúcka Lehota	1	278	137	141	10	51	58	18	257	177	101	85	92	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508969	Rieèka	1	603	182	421	34	43	79	26	592	361	242	167	194	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	557765	Rieèka	1	189	52	137	12	4	23	13	182	56	133	8	48	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515426	Rimavská Baòa	1	405	102	303	8	42	44	8	401	181	224	96	85	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515442	Rimavská Seè	1	640	104	545	63	4	23	14	649	127	522	10	117	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515442	Rimavská Seè	2	681	153	528	56	25	54	18	670	183	498	12	171	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	1	1122	127	1002	16	16	65	30	1129	287	842	109	178	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	2	448	104	344	11	23	52	18	433	215	233	54	161	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	3	553	102	451	9	18	53	22	502	231	322	88	143	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	4	653	141	512	9	33	68	31	610	290	363	67	223	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	5	217	80	137	9	36	29	6	211	103	114	69	34	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	6	678	154	524	11	37	83	23	660	323	355	117	206	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	7	997	144	853	6	45	70	23	976	384	613	175	209	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	8	1019	219	800	10	52	103	54	977	459	560	126	333	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	9	1057	145	912	18	37	55	35	1033	368	689	109	259	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	10	194	33	161	6	12	4	11	191	61	133	20	41	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	11	234	50	184	6	17	24	3	234	100	134	53	47	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	12	789	150	639	9	45	74	22	775	345	444	130	215	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	13	675	165	510	16	38	72	39	653	329	346	98	231	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	14	815	205	610	14	37	109	45	797	424	391	148	276	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	15	815	195	620	10	45	109	31	787	424	391	171	253	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	16	708	140	568	16	34	69	21	664	274	434	97	177	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	17	843	124	719	16	33	43	32	799	274	569	72	202	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	18	784	128	656	10	42	52	24	749	312	472	114	198	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	19	1135	163	972	17	51	50	45	1096	430	705	95	335	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	20	491	85	413	4	22	36	23	498	242	256	70	172	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	21	1161	159	1002	15	57	54	33	1106	429	732	122	307	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	22	1227	164	1063	17	57	58	32	1193	476	751	128	348	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	23	798	143	655	11	51	54	27	781	317	481	95	222	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	24	1071	190	881	33	45	73	39	1039	383	688	116	267	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	25	570	165	412	56	0	107	2	577	100	477	95	5	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	26	135	47	88	12	11	18	6	129	45	90	17	28	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	514462	Rimavská Sobota	27	139	47	92	6	5	33	3	138	69	70	36	33	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515451	Rimavské Brezovo	1	418	81	337	15	29	34	3	406	193	225	141	52	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515469	Rimavské Janovce	1	1039	151	888	25	23	57	46	1031	401	638	121	280	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	557811	Rimavské Zaluany	1	272	88	184	11	21	52	4	269	155	117	111	44	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511820	Rovòany	1	215	57	158	3	12	35	7	208	112	103	76	36	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515485	Rovné	1	103	40	66	2	16	18	4	106	62	44	40	22	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517232	Rudno nad Hronom	1	419	102	320	19	19	54	10	422	242	180	124	118	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515493	Rumince	1	307	69	245	14	9	35	11	314	148	166	55	93	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511838	Ruiná	1	659	128	541	20	37	65	6	669	325	344	245	80	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515507	Rybník	1	107	12	1161	7	1	3	1	1173	664	509	406	258	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518701	Rykynèice	1	42	20	25	1	6	13	0	45	31	14	28	3	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518701	Rykynèice	2	224	69	165	19	16	32	2	234	146	88	77	69	
+Banskobystrickı kraj	606	Rimavská Sobota	611	Zvolen	518727	Sása	1	105	12	98	7	2	3	0	110	54	56	45	9	
+Banskobystrickı kraj	604	Zvolen	608	Revúca	557820	Sása	1	753	190	563	21	31	122	16	731	345	408	194	151	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508977	Sebedín - Beèov	1	176	51	132	7	3	40	1	183	108	75	61	47	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508977	Sebedín - Beèov	2	132	35	97	5	12	18	0	131	63	69	35	28	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518735	Sebechleby	1	937	383	554	54	130	152	47	915	448	489	167	281	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516333	Seèianky	1	323	55	268	7	1	28	19	321	83	240	8	75	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516341	Se¾any	1	185	44	141	10	2	26	6	185	89	96	45	44	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508985	Selce	1	833	209	693	18	55	67	69	902	518	384	187	331	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	515515	Selce	1	92	48	44	5	12	26	5	90	49	43	38	11	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518743	Selce	1	88	25	68	4	7	13	1	93	56	37	37	19	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	508985	Selce	2	974	279	695	40	77	74	88	882	447	527	141	306	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516368	Senné	1	189	67	123	10	4	45	8	190	97	93	55	42	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518751	Senohrad	1	616	159	472	41	25	89	4	631	269	362	144	125	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518760	Sielnica	1	1051	210	844	21	39	130	20	1054	512	542	207	305	
+Banskobystrickı kraj	602	Brezno	603	Brezno	508993	Sihla	1	164	25	149	3	7	14	1	174	107	67	64	43	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526258	Sirk	1	561	126	435	13	67	45	1	559	289	272	229	60	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526258	Sirk	2	249	116	142	10	21	85	0	258	160	98	144	16	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515523	Skerešovo	1	185	41	144	3	9	19	10	183	75	110	20	55	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516376	Sklabiná	1	690	58	632	11	7	38	2	690	257	433	166	91	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517241	Sklené Teplice	1	372	127	301	19	26	70	12	428	283	145	167	116	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517259	Slaská	1	399	163	236	42	36	68	17	399	201	198	90	111	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518794	Slatinské Lazy	1	403	130	273	29	9	87	5	391	184	219	99	85	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518808	Sliaè	1	817	149	668	17	26	80	26	811	433	384	132	301	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518808	Sliaè	2	1550	432	1118	66	85	200	81	1483	899	651	258	641	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518808	Sliaè	3	790	248	542	21	46	123	58	752	496	294	191	305	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518808	Sliaè	4	1001	274	727	36	47	141	50	977	530	471	185	345	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518808	Sliaè	5	111	26	103	6	6	11	3	129	120	9	62	58	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515531	Slizké	1	123	12	111	2	3	6	1	121	44	79	38	6	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	509001	Slovenská ¼upèa	1	865	181	684	18	76	69	18	842	388	477	161	227	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	509001	Slovenská ¼upèa	2	904	156	748	18	66	51	21	884	446	458	175	271	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	509001	Slovenská ¼upèa	3	938	172	766	18	44	74	36	915	461	477	171	290	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516384	Slovenské Ïarmoty	1	475	57	418	9	8	20	20	419	159	316	59	100	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516392	Slovenské K¾aèany	1	124	20	107	4	2	8	6	127	49	78	26	23	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515540	Stará Bašta	1	286	75	211	6	2	52	15	285	124	162	7	117	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511846	Stará Haliè	1	541	145	396	14	23	84	24	496	257	284	156	101	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518816	Stará Huta	1	274	54	231	3	11	34	6	285	141	144	67	74	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517267	Stará Kremnièka	1	886	206	680	48	66	75	17	865	390	496	216	174	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	509019	Staré Hory	1	453	121	371	15	36	48	22	492	291	201	111	180	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518824	Stook	1	789	242	547	16	69	138	19	780	395	394	206	189	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515566	Stránska	1	273	52	221	20	6	21	5	269	92	181	42	50	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516406	Stredné Plachtince	1	547	61	486	3	16	35	7	528	237	310	157	80	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	509027	Strelníky	1	651	136	524	27	40	59	10	660	355	305	209	146	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515582	Studená	1	213	50	163	17	11	12	10	201	71	142	6	65	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518832	Sudince	1	55	28	30	7	3	18	0	58	37	21	27	10	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518841	Súdovce	1	160	29	136	5	6	18	0	165	86	79	56	30	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516414	Sucháò	1	205	52	157	7	3	40	2	209	108	101	91	17	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516422	Suché Brezovo	1	76	12	65	3	0	8	1	77	42	35	31	11	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	515591	Sušany	1	364	118	249	16	19	77	6	367	205	162	134	71	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515604	Sútor	1	317	109	216	65	1	41	2	325	173	152	154	19	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	516597	Svätı Anton	1	996	242	754	63	50	86	43	992	458	538	277	181	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511854	Šávo¾	1	429	115	315	38	8	56	13	430	150	280	25	125	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511862	Šiatorská Bukovinka	1	268	95	181	10	22	56	7	276	173	103	116	57	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511871	Šíd	1	884	176	708	66	24	61	25	880	265	619	27	238	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515621	Šimonovce	1	414	190	224	111	16	29	34	410	171	243	10	161	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516431	Širákov	1	185	20	167	1	1	9	9	187	75	112	14	61	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515639	Širkovce	1	667	126	541	54	18	35	19	649	148	519	25	123	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526304	Šivetice	1	250	124	128	29	5	84	6	252	122	130	77	45	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511889	Šoltıska	1	117	39	91	7	6	26	0	130	77	53	54	23	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	509035	Špania Dolina	1	158	50	128	14	7	24	5	178	122	56	38	84	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515647	Španie Pole	1	60	19	53	3	4	11	1	72	29	43	18	11	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	517283	Štiavnické Bane	1	680	154	605	27	14	72	41	759	409	350	226	183	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515655	Štrkovec	1	286	79	212	8	7	50	14	291	113	178	12	101	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516449	Šu¾a	1	58	15	55	1	2	11	1	70	43	27	25	18	
+Banskobystrickı kraj	602	Brezno	603	Brezno	509043	Šumiac	1	1041	210	831	8	97	87	18	1041	443	598	314	129	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511897	Šurice	1	424	121	303	17	8	72	24	420	119	305	39	80	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515663	Tachty	1	444	169	275	28	5	68	68	424	190	254	13	177	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	509060	Tajov	1	495	131	364	22	31	53	25	491	313	182	127	186	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517291	Tekovská Breznica	1	1036	194	860	26	29	130	9	1054	573	481	370	203	
+Banskobystrickı kraj	602	Brezno	603	Brezno	509051	Telgárt	1	1108	109	1003	20	31	35	23	1112	410	702	246	164	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515671	Teplı Vrch	1	252	55	202	5	22	26	2	257	150	107	90	60	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518867	Terany	1	508	128	380	13	28	87	0	507	256	252	186	70	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515680	Tisovec	1	461	80	382	10	24	36	10	462	147	315	80	67	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515680	Tisovec	2	796	217	586	19	61	115	22	803	384	419	216	168	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515680	Tisovec	3	859	223	636	16	65	108	34	858	372	487	186	186	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515680	Tisovec	4	768	171	597	17	77	70	7	759	299	469	145	154	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515680	Tisovec	5	387	85	305	17	35	28	5	390	147	243	76	71	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511901	Toènica	1	272	97	188	24	24	44	5	285	147	138	101	46	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511919	Tomášovce	1	1173	476	697	43	92	302	39	1166	631	542	361	270	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515698	Tomášovce	1	146	33	120	6	6	16	5	153	72	81	8	64	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515612	Torna¾a	1	329	81	250	10	14	51	6	331	136	195	39	97	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515612	Torna¾a	2	591	137	454	33	9	55	40	572	186	405	36	150	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515612	Torna¾a	3	609	130	479	19	8	69	34	591	190	419	38	152	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515612	Torna¾a	4	476	118	358	28	11	46	33	470	150	326	18	132	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515612	Torna¾a	5	738	140	598	22	22	59	37	704	232	506	49	183	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515612	Torna¾a	6	739	155	584	27	17	83	28	726	195	544	36	159	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515612	Torna¾a	7	953	155	798	22	44	61	28	911	276	677	39	237	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515612	Torna¾a	8	1137	266	871	54	36	116	60	1098	346	791	56	290	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515612	Torna¾a	9	599	119	480	7	14	75	23	566	210	389	41	169	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511927	Trebe¾ovce	1	399	90	309	4	13	60	13	374	157	242	84	73	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511927	Trebe¾ovce	2	104	29	77	4	2	18	5	106	52	54	23	29	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511927	Trebe¾ovce	3	242	67	175	13	12	38	4	241	135	107	99	36	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516457	Trebušovce	1	169	49	120	5	1	19	24	168	85	84	8	77	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	557340	Trenè	1	323	37	286	12	5	14	6	321	75	248	32	43	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517313	Trnavá Hora	1	960	150	810	16	43	76	15	958	474	486	248	226	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518875	Tànie	1	311	82	229	7	16	54	5	308	195	116	74	121	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518883	Trpín	1	100	35	65	3	14	15	3	98	62	38	32	30	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511943	Tuhár	1	316	90	226	13	33	40	4	314	147	169	99	48	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	526321	Turèok	1	192	81	122	5	14	60	2	203	109	94	82	27	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	557269	Turecká	1	127	35	96	2	9	19	5	131	89	42	37	52	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518891	Turová	1	341	102	239	11	14	73	4	340	206	135	117	89	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	511978	Uhorské	1	442	157	285	24	33	90	10	439	207	235	143	64	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518905	Uòatín	1	146	60	86	7	15	37	1	144	96	50	68	28	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	580317	Utekáè	1	786	194	599	16	28	141	9	793	333	460	246	87	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	580317	Utekáè	2	93	28	66	5	5	16	2	94	55	39	34	21	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515701	Uzovská Panica	1	476	128	348	82	14	25	7	462	125	351	27	98	
+Banskobystrickı kraj	602	Brezno	603	Brezno	509086	Valaská	1	1244	299	945	26	110	122	41	1224	636	608	328	308	
+Banskobystrickı kraj	602	Brezno	603	Brezno	509086	Valaská	2	1129	238	896	22	94	98	24	1134	548	586	323	225	
+Banskobystrickı kraj	602	Brezno	603	Brezno	509086	Valaská	3	447	110	337	10	43	47	10	447	234	213	107	127	
+Banskobystrickı kraj	602	Brezno	603	Brezno	509086	Valaská	4	276	53	229	5	14	29	5	282	110	172	53	57	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515795	Valice	1	206	55	154	33	3	15	4	209	87	122	14	73	
+Banskobystrickı kraj	602	Brezno	603	Brezno	509094	Va¾kovòa	1	242	37	209	20	5	10	2	246	103	143	89	14	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515710	Vèelince	1	640	126	514	37	12	55	22	636	201	439	32	169	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515728	Veèelkov	1	218	60	158	13	2	35	10	216	79	139	6	73	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516465	Ve¾ká Èalomija	1	538	132	406	15	8	53	56	514	262	276	42	220	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517330	Ve¾ká Lehota	1	952	135	831	25	28	77	5	966	492	474	328	164	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	581585	Ve¾ká Lúka	1	432	116	327	9	17	70	20	443	229	214	89	140	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	511994	Ve¾ká nad Ip¾om	1	744	99	645	7	26	54	12	739	263	481	67	196	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	512001	Ve¾ká Ves	1	377	87	290	10	34	32	11	376	194	183	111	83	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516473	Ve¾ká Ves nad Ip¾om	1	343	53	290	7	0	15	31	341	129	214	25	104	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	512010	Ve¾ké Dravce	1	537	226	311	31	13	158	24	527	246	291	60	186	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517348	Ve¾ké Pole	1	285	51	253	6	2	39	4	304	126	178	88	38	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	558214	Ve¾ké Straciny	1	140	28	115	6	2	16	4	143	76	67	38	38	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515736	Ve¾ké Teriakovce	1	583	133	462	14	50	60	9	595	245	350	137	108	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515736	Ve¾ké Teriakovce	2	165	37	130	2	19	16	0	167	67	100	50	17	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516490	Ve¾ké Zlievce	1	380	42	338	2	4	20	16	375	149	231	76	73	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515744	Ve¾kı Blh	1	808	102	706	15	12	50	25	782	231	577	65	166	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515850	Ve¾kı Krtíš	1	675	144	531	22	19	74	29	645	325	350	180	145	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515850	Ve¾kı Krtíš	2	1074	81	993	12	17	40	12	1038	360	714	145	215	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515850	Ve¾kı Krtíš	3	1004	116	888	15	30	49	22	987	442	562	167	275	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515850	Ve¾kı Krtíš	4	840	98	742	15	28	35	20	791	289	551	132	157	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515850	Ve¾kı Krtíš	5	697	45	652	13	6	10	16	654	138	559	53	85	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515850	Ve¾kı Krtíš	6	1025	94	931	5	28	34	27	982	326	699	137	189	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515850	Ve¾kı Krtíš	7	658	117	541	16	14	62	25	628	354	304	150	204	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515850	Ve¾kı Krtíš	8	932	158	774	15	38	81	24	883	407	525	202	205	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515850	Ve¾kı Krtíš	9	458	93	365	15	9	46	23	422	226	232	114	112	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515850	Ve¾kı Krtíš	10	978	72	906	13	9	33	17	937	264	714	149	115	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515850	Ve¾kı Krtíš	11	1189	136	1053	27	27	67	15	1138	359	830	176	183	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	515850	Ve¾kı Krtíš	12	741	152	589	16	22	86	28	691	380	361	189	191	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516503	Ve¾kı Lom	1	152	26	126	1	1	18	6	139	81	71	60	21	
+Banskobystrickı kraj	603	Luèenec	606	Luèenec	557307	Vidiná	1	1551	377	1174	37	80	223	37	1511	793	758	405	388	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516511	Vieska	1	168	41	328	6	14	17	4	369	227	142	17	210	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515752	Vieska nad Blhom	1	124	46	83	22	1	18	5	129	35	94	10	25	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518921	Víg¾aš	1	994	284	716	32	51	169	32	1000	584	416	301	283	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518921	Víg¾aš	2	370	95	277	9	9	74	3	372	173	199	122	51	
+Banskobystrickı kraj	606	Zvolen	604	Detva	518930	Víg¾ašská Huta - Kalinka	1	297	75	228	4	7	54	10	303	179	124	102	77	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516520	Vinica	1	683	133	550	17	1	61	54	680	284	399	20	264	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516520	Vinica	2	919	166	753	25	1	69	71	910	371	548	43	328	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515761	Višòové	1	48	10	130	2	2	2	4	140	83	57	48	35	
+Banskobystrickı kraj	601	Banská Bystrica	601	Banská Bystrica	557293	Vlkanová	1	1070	200	870	31	64	78	27	516	174	896	78	96	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515779	Vlkyòa	1	237	78	164	18	17	26	17	242	113	129	3	110	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517356	Voznica	1	522	108	420	7	18	70	13	528	276	252	194	82	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516538	Vrbovka	1	313	101	212	5	2	73	21	312	124	189	19	105	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	517364	Vyhne	1	1029	257	826	63	35	129	30	1083	546	537	287	259	
+Banskobystrickı kraj	607	iar nad Hronom	602	Banská Štiavnica	517372	Vysoká	1	108	32	76	5	6	16	5	104	51	57	33	18	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	557901	Vyšné Valice	1	212	48	164	16	2	24	6	212	79	133	2	77	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515809	Vyšnı Skálnik	1	132	38	94	5	19	13	1	132	66	66	42	24	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515817	Zádor	1	96	21	79	2	2	8	9	100	48	52	5	43	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516546	Záhorce	1	501	111	390	13	24	64	10	478	267	234	157	110	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516546	Záhorce	2	109	23	86	3	4	16	0	97	47	62	23	24	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	557927	Zacharovce	1	332	94	238	7	16	55	16	328	155	177	101	54	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516554	Závada	1	403	38	481	3	9	23	3	519	256	263	195	61	
+Banskobystrickı kraj	602	Brezno	603	Brezno	509124	Závadka nad Hronom	1	962	168	802	32	58	72	6	970	410	560	219	191	
+Banskobystrickı kraj	602	Brezno	603	Brezno	509124	Závadka nad Hronom	2	927	151	776	18	69	47	17	905	368	559	191	177	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518956	Zemiansky Vrbovok	1	86	22	69	3	4	14	1	91	54	37	36	18	
+Banskobystrickı kraj	603	Luèenec	607	Poltár	582051	Zlatno	1	377	113	264	34	20	54	5	205	106	271	79	27	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516562	Zombor	1	97	10	94	3	1	5	1	104	33	71	29	4	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	1	923	158	765	9	33	89	27	919	351	572	157	194	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	2	944	286	658	33	36	149	68	891	514	430	141	373	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	3	776	286	490	34	31	146	75	729	448	328	165	283	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	4	930	317	628	26	29	230	32	945	565	380	245	320	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	5	1662	347	1315	34	46	217	50	1647	573	1089	205	368	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	6	328	63	265	9	15	34	5	318	146	182	51	95	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	7	555	187	368	8	20	133	26	529	327	228	147	180	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	8	623	189	434	25	23	118	23	583	334	289	137	197	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	9	1041	294	747	32	28	187	47	1041	525	516	191	334	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	10	835	253	582	20	26	181	26	815	437	398	197	240	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	11	1042	299	743	28	66	168	37	999	557	485	167	390	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	12	719	219	500	17	21	145	36	717	415	304	131	284	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	13	1028	268	760	20	31	187	30	988	506	522	223	283	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	14	967	263	704	27	36	163	37	922	428	539	203	225	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	15	897	175	722	20	32	103	20	884	384	513	169	215	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	16	636	144	492	9	17	102	16	590	275	361	119	156	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	17	737	227	510	19	35	140	33	693	375	362	186	189	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	18	831	286	545	18	18	233	17	812	470	361	243	227	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	19	1042	299	743	14	44	212	29	996	503	539	217	286	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	20	1184	388	796	16	22	306	44	1146	597	587	265	332	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	21	1241	310	931	32	36	200	42	1192	615	626	260	355	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	22	970	217	753	13	22	162	20	954	459	511	250	209	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	23	841	265	576	24	21	196	24	814	413	428	198	215	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	24	1046	246	800	16	40	170	20	1020	419	627	236	183	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	25	779	183	596	15	33	117	18	754	359	420	165	194	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	26	760	187	596	11	16	154	6	783	379	404	226	153	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	27	954	217	737	16	39	153	9	917	412	542	203	209	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	28	967	242	725	20	31	160	31	924	431	536	203	228	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	29	947	217	730	19	16	162	20	919	424	523	231	193	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	30	62	17	61	2	0	14	1	78	45	33	20	25	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	31	96	41	71	3	7	29	2	112	74	38	48	26	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	32	325	82	243	2	13	59	8	324	149	176	73	76	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	33	1246	284	962	26	58	169	31	1235	589	657	206	383	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	34	895	214	681	15	34	149	16	860	394	501	186	208	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	35	997	237	760	21	40	146	30	953	472	525	162	310	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	36	1145	255	890	16	39	177	23	1143	478	667	217	261	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	37	1239	284	955	18	48	183	35	1187	605	634	212	393	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	38	1295	295	1000	36	43	177	39	1223	574	721	185	389	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	39	874	177	697	12	32	112	21	853	408	466	129	279	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518158	Zvolen	40	1151	261	890	30	50	136	45	1151	554	597	177	377	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518972	Zvolenská Slatina	1	1176	284	924	29	64	158	33	1208	618	590	280	338	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518972	Zvolenská Slatina	2	1114	299	815	27	80	155	37	1105	508	606	261	247	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517381	arnovica	1	1175	259	916	35	48	141	35	1171	497	678	239	258	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517381	arnovica	2	985	253	732	21	42	165	25	972	487	498	271	216	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517381	arnovica	3	846	204	642	18	39	135	12	788	387	459	212	175	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517381	arnovica	4	861	276	585	28	52	163	33	818	435	426	212	223	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517381	arnovica	5	868	250	618	29	35	163	23	828	417	451	270	147	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517381	arnovica	6	88	21	77	7	3	9	2	98	51	47	27	24	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517381	arnovica	7	141	80	68	8	9	60	3	148	81	67	59	22	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517381	arnovica	8	170	55	124	21	7	23	4	179	111	68	58	53	
+Banskobystrickı kraj	606	Zvolen	611	Zvolen	518981	elezná Breznica	1	463	142	321	2	27	100	13	452	232	231	138	94	
+Banskobystrickı kraj	605	Ve¾kı Krtíš	610	Ve¾kı Krtíš	516571	elovce	1	1106	143	963	20	21	54	48	1066	416	690	125	291	
+Banskobystrickı kraj	604	Rimavská Sobota	608	Revúca	515833	iar	1	116	51	303	4	5	35	7	354	238	116	86	152	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	1	1127	206	921	27	68	82	29	1084	523	604	211	312	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	2	1196	304	892	48	63	144	49	1159	672	524	293	379	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	3	909	176	733	39	29	91	17	860	325	584	152	173	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	4	2052	249	1803	52	43	126	28	2030	560	1492	263	297	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	5	840	168	672	17	32	99	20	798	386	454	209	177	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	6	982	232	750	24	48	125	35	958	509	473	236	273	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	7	1009	245	764	33	46	137	29	981	503	506	250	253	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	8	1101	217	884	32	36	120	29	1054	441	660	218	223	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	9	1094	245	849	30	49	138	28	1050	529	565	258	271	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	10	909	230	679	30	31	145	24	904	510	399	293	217	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	11	1433	251	1182	39	77	91	44	1399	621	812	215	406	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	12	1029	142	887	21	33	75	13	997	462	567	223	239	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	13	1034	166	868	23	32	85	26	985	442	592	182	260	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	14	908	192	722	25	32	116	19	914	440	474	226	214	
+Banskobystrickı kraj	607	iar nad Hronom	613	iar nad Hronom	516589	iar nad Hronom	15	248	53	195	6	11	31	5	246	118	130	75	43	
+Banskobystrickı kraj	606	Zvolen	605	Krupina	518999	ibritov	1	59	31	35	7	4	16	4	66	46	20	35	11	
+Banskobystrickı kraj	604	Rimavská Sobota	609	Rimavská Sobota	515841	íp	1	136	45	100	19	5	14	7	145	85	60	14	71	
+Banskobystrickı kraj	607	iar nad Hronom	612	arnovica	517399	upkov	1	699	294	417	60	75	133	26	711	320	391	185	135	
